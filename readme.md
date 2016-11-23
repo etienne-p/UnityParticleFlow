@@ -10,7 +10,7 @@ Take a look at the **Demo** scene for a better understanding:
 The **vector field** is designed using **nodes**,  
 ![alt tag](img/field_hierarchy_basic.png)
 
-these nodes combine three behaviors (attractor, beam and twirl)  
+these nodes combine three behaviors (attractor, beam and twirl)    
 ![alt tag](img/node_inspector.png)
 
 Nodes may be combined in a **Path**, so they behave as the control points of a spline  
@@ -19,5 +19,5 @@ Nodes may be combined in a **Path**, so they behave as the control points of a s
 Once the vector field is designed, **export the lookup textures** that will be used to animate the particle system  
 ![alt tag](img/field_inspector.png)
 
-Finally, setup the particle system
+Finally, setup the particle system  
 ![alt tag](img/particle_system_inspector.png)
