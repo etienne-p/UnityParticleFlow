@@ -3,6 +3,9 @@ UnityGPUFlow
 
 This is a minimal Unity framework that lets you create flowing particles animations. It was originally developed at [**Dpt**](http://dpt.co/) as part of a VR project.
 
+Fell free to check out the WebGL demo:  
+https://etienne-p.github.io/UnityParticleFlow/
+
 You can design a vector field in the Unity editor, and use it to animate a GPU particle system.
 
 Take a look at the **Demo** scene for a better understanding:
